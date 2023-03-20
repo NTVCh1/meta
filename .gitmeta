@@ -1,0 +1,4 @@
+chown -h 1000:1000 './.gitignore'
+chmod 0777 './.gitignore'
+/usr/bin/touch -hcmd "2023-01-02 16:13:54.9254895000 -0300" './.gitignore'
+/usr/bin/touch -hcad "2023-03-20 11:37:41.6968642000 -0300" './.gitignore'
